@@ -1,8 +1,8 @@
 # Marwa Rouah - Data Science & AI Portfolio
 
 **Data Science & AI Student | Machine Learning Enthusiast | Analytics Professional**
+
 ## About Me
-![Marwa Rouah](Assets/me.jpg)
 
 Highly motivated and analytical individual pursuing a Bachelor's in Data Science & Artificial Intelligence at Breda University of Applied Sciences. Passionate about applying machine learning, data modeling, and visualization to solve real-world problems and drive data-driven decision-making.
 
@@ -40,6 +40,7 @@ Developed a comprehensive cloud-based application for automated plant organ segm
 - **Production-Ready:** Developed containerized, secure, multi-user application with comprehensive error handling and logging
 - **Documentation:** Created extensive project documentation, API references, and usage guides hosted on GitHub Pages
 
+[View Project Repository](https://github.com/BredaUniversityADSAI/2023-24b-fai2-adsai-Marwarouah223256)
 ![NPEC Plant Project](Assets/npec.jpg)
 
 ### AI Perception Research at BUas
@@ -82,6 +83,8 @@ Engineered a sophisticated prediction model for Banijay Netherlands, incorporati
 - Created comprehensive Power BI dashboard linking social engagement to TV ratings
 
   
+[View Project Repository](https://github.com/BredaUniversityADSAI/2022-23d-1fcmgt-reg-ai-01-group-team10)
+
 ![Banijay TV Ratings Project](Assets/banijay.jpg)
 
 ### Deep Learning Dog Breed Classification
@@ -95,6 +98,8 @@ Developed and optimized a deep learning model for multi-class classification of 
 - Implemented transfer learning techniques for optimal model performance
 - Created prototype application demonstrating innovative functionality and user experience
 
+[View Project Repository](https://github.com/BredaUniversityADSAI/2022-23b-1fcmgt-reg-ai-01-Marwarouah223256)
+
 ### European Economic Analysis Dashboard
 **Technologies:** Power BI, CRISP-DM  
 **Year:** 2022
@@ -105,6 +110,8 @@ Developed an interactive Power BI dashboard focused on Sustainable Development G
 - Applied data analytics techniques to identify economic patterns and trends
 - Presented research findings at conference demonstrating unemployment's impact on economic growth
 - Utilized CRISP-DM methodology for comprehensive data analysis lifecycle
+  
+[View Project Repository](https://github.com/BredaUniversityADSAI/2022-23a-1fcmgt-reg-ai-01-Marwarouah223256)
 
 ## Technical Skills
 
