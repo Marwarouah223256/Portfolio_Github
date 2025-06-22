@@ -1,6 +1,8 @@
 # Marwa Rouah - Data Science & AI Portfolio
 
 **Data Science & AI Student | Machine Learning Enthusiast | Analytics Professional**
+## About Me
+![Marwa Rouah](Assets/me.jpg)
 
 Highly motivated and analytical individual pursuing a Bachelor's in Data Science & Artificial Intelligence at Breda University of Applied Sciences. Passionate about applying machine learning, data modeling, and visualization to solve real-world problems and drive data-driven decision-making.
 
@@ -38,6 +40,8 @@ Developed a comprehensive cloud-based application for automated plant organ segm
 - **Production-Ready:** Developed containerized, secure, multi-user application with comprehensive error handling and logging
 - **Documentation:** Created extensive project documentation, API references, and usage guides hosted on GitHub Pages
 
+![NPEC Plant Project](Assets/npec.jpg)
+
 ### AI Perception Research at BUas
 **Technologies:** Python, R, Qualtrics, Statistical Analysis  
 **Year:** 2024
@@ -49,6 +53,8 @@ Conducted comprehensive mixed-methods research analyzing AI perception and adopt
 - Developed strategic policy recommendations for AI implementation based on research findings
 - Delivered conference presentation to academic stakeholders showcasing methodology and results
 - Created actionable framework for institutional AI adoption strategies
+  
+![BUas AI Research](Assets/buas.png)
 
 ### Smart City Nuisance Prediction Model
 **Technologies:** Python, Machine Learning, Streamlit  
@@ -61,6 +67,8 @@ Built machine learning model to predict nuisance incidents in Breda using histor
 - Created interactive Streamlit web application showcasing data insights and model performance
 - Delivered conference presentation demonstrating predictive capabilities and strategic recommendations
 
+ ![BUas AI Research](Assets/buas.png)
+
 ### TV Ratings Prediction Engine
 **Technologies:** Python, Deep Learning, Twitter API, Pandas, Scikit-learn, Power BI  
 **Year:** 2023
@@ -72,6 +80,9 @@ Engineered a sophisticated prediction model for Banijay Netherlands, incorporati
 - Integrated Twitter API data for real-time social sentiment analysis
 - Applied advanced feature engineering and data augmentation techniques
 - Created comprehensive Power BI dashboard linking social engagement to TV ratings
+
+  
+![Banijay TV Ratings Project](Assets/banijay.jpg)
 
 ### Deep Learning Dog Breed Classification
 **Technologies:** TensorFlow, Keras, scikit-learn  
