@@ -76,7 +76,7 @@ Built machine learning model to predict nuisance incidents in Breda using histor
 Engineered a sophisticated prediction model for Banijay Netherlands, incorporating social media sentiment analysis with traditional viewership data.
 
 **Data Pipeline:**
-- Processed millions of rows from production databases and social media platforms
+- Processed thousands of rows from production databases and social media platforms
 - Integrated Twitter API data for real-time social sentiment analysis
 - Applied advanced feature engineering and data augmentation techniques
 - Created comprehensive Power BI dashboard linking social engagement to TV ratings
